@@ -5,6 +5,7 @@
     "homepage": "https://github.com/loveorigami/yii-ext",
     "type": "yii-extension",
     "license": "BSD-3-Clause",
+	"version": "1.0",
     "authors": [
         {
             "name": "Lukyanov Andrey",
